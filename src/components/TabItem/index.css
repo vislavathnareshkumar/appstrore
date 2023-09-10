@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.button {
+  background-color: transparent;
+  font-weight: bold;
+
+  font-family: Bree Serif;
+  color: #7b8794;
+  font-size: 22px;
+  border: none;
+  padding: 5px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  border-bottom: 1px solid #7b8794;
+}
+.btn-active {
+  border-bottom: 3px solid #2563eb;
+  color: #2563eb;
+}
